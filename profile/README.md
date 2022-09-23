@@ -30,7 +30,7 @@ TA: [Taein Kwon](https://taeinkwon.com/), [Denys Rozumnyi](https://people.inf.et
 - Augmented Reality Gait and Balance Training
 - Remote Cross-Platform Collaboration
 - AR Tourist Guide for Viewing Platforms:[https://gitlab.ethz.ch/andrbrom/mixed-reality-project](https://gitlab.ethz.ch/andrbrom/mixed-reality-project)
-- Seeing Future Building Technical Report
+- Seeing Future Building
 
 ## 2020 Mixed Reality
 Instructor: [Dr. Martin Oswald](https://scholar.google.de/citations?user=biytQP8AAAAJ&hl=en), [Dr. Federica Bogo](https://fbogo.github.io/)<br>
