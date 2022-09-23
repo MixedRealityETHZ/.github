@@ -16,7 +16,7 @@ TA: Taein Kwon<br>
 - MR Motion Instructor: [https://github.com/janwww/motion-instructor](https://github.com/janwww/motion-instructor)
 - Virtual Paintings and Graffitis
 - Fracture Surgery Assistance: [https://github.com/daniCh8/mixed-reality-surgery-assistance-2020](https://github.com/daniCh8/mixed-reality-surgery-assistance-2020)
-- 
+
 ## 2021
 Instructor:	Dr. Iro Armeni, Dr. Federica Bogo, Prof. Marc Pollefeys<br>
 TA: Taein Kwon, Denys Rozumnyi, Jonas Hein, Isaak Hanimann<br>
@@ -27,7 +27,7 @@ TA: Taein Kwon, Denys Rozumnyi, Jonas Hein, Isaak Hanimann<br>
 - Sculpting Gestures
 - Human-Machine Collaboration with the HEAP Walking Excavator using AR
 - Drawing Topography in Virtual Space
-- HoloLabel: Mixed Reality Scene Annotation Tool on the HoloLens: (https://gitlab.ethz.ch/dagrawal/mixed-reality-ar-scene-annotation-project)[https://gitlab.ethz.ch/dagrawal/mixed-reality-ar-scene-annotation-project]
+- HoloLabel: Mixed Reality Scene Annotation Tool on the HoloLens: [https://gitlab.ethz.ch/dagrawal/mixed-reality-ar-scene-annotation-project](https://gitlab.ethz.ch/dagrawal/mixed-reality-ar-scene-annotation-project)
 - Instinctive Robot Control via Hololens 2: [https://gitlab.ethz.ch/mr-instinctive-robot/mr-instinctive-robot-control](https://gitlab.ethz.ch/mr-instinctive-robot/mr-instinctive-robot-control) [Video](https://youtu.be/YiZyG_5g66w)
 - AR World Map: A mobile augmented reality application to rediscover the globe 
 - Analysing Physical Model in Real Time
