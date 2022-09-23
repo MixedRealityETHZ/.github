@@ -4,7 +4,8 @@ This organization is for the [Mixed Reality course](http://cvg.ethz.ch/teaching/
 ## 2019 Mixed Reality
 Instructor: [Dr. Federica Bogo](https://fbogo.github.io/), [Dr. Martin Oswald](https://scholar.google.de/citations?user=biytQP8AAAAJ&hl=en) <br>
 TA: [Taein Kwon](https://taeinkwon.com/), [Christoph Gebhardt](https://ait.ethz.ch/people/gebhardt/) <br>
-Projects:
+
+### Projects:
 - MR Immersive Telemanipulation: [https://github.com/ardaduz/mr-immersive-telemanipulation](https://github.com/ardaduz/mr-immersive-telemanipulation)
 - Zurich Airport Interactive Experience
 - Mixed Reality Surgery Assistant: [https://github.com/alessiapacca/MRlab-2019-surgery](https://github.com/alessiapacca/MRlab-2019-surgery)
@@ -13,6 +14,8 @@ Projects:
 ## 2020 Mixed Reality
 Instructor: [Dr. Martin Oswald](https://scholar.google.de/citations?user=biytQP8AAAAJ&hl=en), [Dr. Federica Bogo](https://fbogo.github.io/)<br>
 TA: [Taein Kwon](https://taeinkwon.com/)<br>
+
+### Projects:
 - Holographic Recording: [https://github.com/isaakhanimann/holographic-recording](https://github.com/isaakhanimann/holographic-recording)
 - MR Motion Instructor: [https://github.com/janwww/motion-instructor](https://github.com/janwww/motion-instructor)
 - Virtual Paintings and Graffitis
@@ -24,6 +27,7 @@ TA: [Taein Kwon](https://taeinkwon.com/), [Denys Rozumnyi](https://people.inf.et
 ![image](https://user-images.githubusercontent.com/19275767/191988824-8ee81d91-7c03-4116-a202-e446bfdbba29.png)
 [Mixed Reality 2021 Highlights video](https://youtu.be/th3tq5B-QiY)
 
+### Projects:
 - SemSpray: VR Scene Annotation Tool: [https://github.com/SherryJYC/VR-3D-Annotation-Tool](https://github.com/SherryJYC/VR-3D-Annotation-Tool)
 - Bi-Modal Mixed Reality Sketching of Immersive Floor Plans: [Video](https://youtu.be/9ztKsujbcPE)
 - ”Seeing” Temperature - Integration of IR camera into the HoloLens 2
