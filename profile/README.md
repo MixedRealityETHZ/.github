@@ -21,6 +21,7 @@ TA: [Taein Kwon](https://taeinkwon.com/)<br>
 ## 2021 Mixed Reality
 Instructor: [Dr. Iro Armeni](https://ir0.github.io/), [Dr. Federica Bogo](https://fbogo.github.io/), [Prof. Marc Pollefeys](https://people.inf.ethz.ch/pomarc/)<br>
 TA: [Taein Kwon](https://taeinkwon.com/), [Denys Rozumnyi](https://people.inf.ethz.ch/denysr/), [Jonas Hein](https://rocs.balgrist.ch/en/about-us/jonas-hein/), Isaak Hanimann<br>
+![image](https://user-images.githubusercontent.com/19275767/191988824-8ee81d91-7c03-4116-a202-e446bfdbba29.png)
 [Mixed Reality 2021 Highlights video](https://youtu.be/th3tq5B-QiY)
 
 - SemSpray: VR Scene Annotation Tool: [https://github.com/SherryJYC/VR-3D-Annotation-Tool](https://github.com/SherryJYC/VR-3D-Annotation-Tool)
