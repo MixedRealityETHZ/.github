@@ -45,6 +45,6 @@ TA: [Taein Kwon](https://taeinkwon.com/), [Denys Rozumnyi](https://people.inf.et
 - Seeing Future Building Technical Report
 
 
-## 2021 Mixed Reality
+## 2022 Mixed Reality
 Instructor: [Dr. Iro Armeni](https://ir0.github.io/), [Prof. Marc Pollefeys](https://people.inf.ethz.ch/pomarc/)<br>
 TA: [Taein Kwon](https://taeinkwon.com/), [Jonas Hein](https://rocs.balgrist.ch/en/about-us/jonas-hein/), Julia Chen, Tianxu An<br>
