@@ -5,6 +5,37 @@ This organization is for the [Mixed Reality course](http://cvg.ethz.ch/teaching/
 Instructor: [Dr. Iro Armeni](https://ir0.github.io/), [Prof. Marc Pollefeys](https://people.inf.ethz.ch/pomarc/)<br>
 TA: Jonas Hein, [Taein Kwon](https://taeinkwon.com/), Julia Chen, Tianxu An<br>
 
+### Projects:
+- Accessible robot control in MR
+- Elevation from images
+- Image Stabilization for HoloLens Camera
+- In-Hand Scanning with Hololens 2 for Irregular Geometries
+- Automatic Neuronavigation with HoloLens
+- Interacting with the Robot via Hololens 2
+- Floorplan Localization and Navigation
+- Holohue
+- Mixed Reality Robotic Grasp Teacher
+- Tele-Operating the robotic arm using MR
+- Interactive Object Segmentation immersed in 3D Environments
+- HoloRoomDesign
+- 3D Room Arrangements using Virtual Reality
+- Floor plan generation from tracked physical objects
+- AR PAC-MAN
+- Language Learning In Real-World Context
+- HoloNavigator
+- Advanced Surgical Planning - Multi-User App Interaction
+- Sensing River Biodiversity
+- Zero-shot pose estimation
+- Augmented tour in historic sites to enhance visitors’ experience
+- HoloMIGROS
+- Remote Cross-platform Collaboration between AR and VR
+- AR Dart Game
+- HoloCSC (Captcha-Scan-Collab)
+- Climbing instructions using Mixed Reality
+- Floorball Goalie Training
+- Prediction-based Visual Cueing to Reduce Freezing of Gait in Parkinson’s Disease
+- All-Around Virtual Photo Walls
+
 ## 2021 Mixed Reality
 Instructor: [Dr. Iro Armeni](https://ir0.github.io/), [Dr. Federica Bogo](https://fbogo.github.io/), [Prof. Marc Pollefeys](https://people.inf.ethz.ch/pomarc/)<br>
 TA: [Taein Kwon](https://taeinkwon.com/), [Denys Rozumnyi](https://people.inf.ethz.ch/denysr/), Jonas Hein, Isaak Hanimann<br>
