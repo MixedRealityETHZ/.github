@@ -1,4 +1,4 @@
-# Mixred Reality @ ETHZ
+# Mixed Reality @ ETHZ
 This organization is for the [Mixed Reality course](http://cvg.ethz.ch/teaching/mrlab/) provided by [CVG](http://cvg.ethz.ch/) @ETHZ.
 
 ## 2022 Mixed Reality
