@@ -9,18 +9,18 @@ TAs: Jonas Hein, [Taein Kwon](https://taeinkwon.com/), Julia Chen, Tianxu An<br>
 [Mixed Reality 2022 Highlights video](https://youtu.be/f67UEnPVfzI)<br>
 
 ### Projects:
-- 3D Room Arrangements using Virtual Reality
-- Accessible robot control in MR
+- [3D Room Arrangements using Virtual Reality](https://github.com/MixedRealityETHZ/3d-vr-room-arrangements)
+- [Accessible robot control in MR](https://github.com/MixedRealityETHZ/Mixed_Reality_Accessible_Control)
 - Advanced Surgical Planning Multi-User App Interaction
-- All-Around Virtual Photo Walls
-- AR Dart Game
+- [All-Around Virtual Photo Walls](https://github.com/MixedRealityETHZ/RealityMixers)
+- [AR Dart Game](https://github.com/MixedRealityETHZ/ar_dart)
 - AR PAC-MAN
 - Augmented tour in historic sites to enhance visitors’ experience
 - Automatic Neuronavigation with HoloLens
-- Climbing instructions using Mixed Reality
-- Elevation from images
-- Floor plan generation from tracked physical objects
-- Floorball Goalie Training
+- [Climbing instructions using Mixed Reality](https://github.com/MixedRealityETHZ/ClimbingApp)
+- [Elevation from images](https://github.com/MixedRealityETHZ/HoloDaYe)
+- [Floor plan generation from tracked physical objects](https://github.com/MixedRealityETHZ/FloorPlanGen)
+- [Floorball Goalie Training](https://github.com/MixedRealityETHZ/floorball_goalie_training)
 - Floorplan Localization and Navigation
 - HoloCSC (Captcha-Scan-Collab)
 - Holohue
@@ -28,16 +28,16 @@ TAs: Jonas Hein, [Taein Kwon](https://taeinkwon.com/), Julia Chen, Tianxu An<br>
 - HoloNavigator
 - HoloRoomDesign
 - Image Stabilization for HoloLens Camera
-- In-Hand Scanning with Hololens 2 for Irregular Geometries
-- Interacting with the Robot via Hololens 2
+- [In-Hand Scanning with Hololens 2 for Irregular Geometries](https://github.com/MixedRealityETHZ/HoloScanner)
+- [Interacting with the Robot via Hololens 2](https://github.com/MixedRealityETHZ/Interact-with-robot-via-Hololens2)
 - Interactive Object Segmentation immersed in 3D Environments
 - Language Learning In Real-World Context
-- MR Robotic Grasp Teacher
-- Prediction-based Visual Cueing to Reduce Freezing of Gait in Parkinson’s Disease
+- [MR Robotic Grasp Teacher](https://github.com/MixedRealityETHZ/Mixed-Reality-Robotic-Grasp-Teacher)
+- [Prediction-based Visual Cueing to Reduce Freezing of Gait in Parkinson’s Disease](https://github.com/MixedRealityETHZ/Mixed-Rehabilitation)
 - Remote Cross-platform Collaboration between AR and VR
 - Sensing River Biodiversity
-- Tele-Operating the robotic arm using MR
-- Zero-shot pose estimation
+- [Tele-Operating the robotic arm using MR](https://github.com/MixedRealityETHZ/spot_arm)
+- [Zero-shot pose estimation](https://github.com/MixedRealityETHZ/ZeroShotPoseEstimation)
 
 ## 2021 Mixed Reality
 Instructors: [Dr. Iro Armeni](https://ir0.github.io/), [Dr. Federica Bogo](https://fbogo.github.io/), [Prof. Marc Pollefeys](https://people.inf.ethz.ch/pomarc/)<br>
