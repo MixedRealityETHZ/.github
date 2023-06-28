@@ -4,6 +4,8 @@ This organization is for the [Mixed Reality course](http://cvg.ethz.ch/teaching/
 ## 2022 Mixed Reality
 Instructor: [Dr. Iro Armeni](https://ir0.github.io/), [Prof. Marc Pollefeys](https://people.inf.ethz.ch/pomarc/)<br>
 TA: Jonas Hein, [Taein Kwon](https://taeinkwon.com/), Julia Chen, Tianxu An<br>
+[![image](https://user-images.githubusercontent.com/19275767/191988824-8ee81d91-7c03-4116-a202-e446bfdbba29.png)](https://youtu.be/f67UEnPVfzI)
+[Mixed Reality 2022 Highlights video](https://youtu.be/f67UEnPVfzI)
 
 ### Projects:
 - 3D Room Arrangements using Virtual Reality
