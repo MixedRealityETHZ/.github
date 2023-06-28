@@ -2,10 +2,11 @@
 This organization is for the [Mixed Reality course](http://cvg.ethz.ch/teaching/mrlab/) provided by [CVG](http://cvg.ethz.ch/) @ETHZ.
 
 ## 2022 Mixed Reality
-Instructor: [Dr. Iro Armeni](https://ir0.github.io/), [Prof. Marc Pollefeys](https://people.inf.ethz.ch/pomarc/)<br>
-TA: Jonas Hein, [Taein Kwon](https://taeinkwon.com/), Julia Chen, Tianxu An<br>
-[![image](https://user-images.githubusercontent.com/19275767/191988824-8ee81d91-7c03-4116-a202-e446bfdbba29.png)](https://youtu.be/f67UEnPVfzI)
-[Mixed Reality 2022 Highlights video](https://youtu.be/f67UEnPVfzI)
+Instructors: [Dr. Iro Armeni](https://ir0.github.io/), [Prof. Marc Pollefeys](https://people.inf.ethz.ch/pomarc/)<br>
+TAs: Jonas Hein, [Taein Kwon](https://taeinkwon.com/), Julia Chen, Tianxu An<br>
+
+[<img src="https://github.com/MixedRealityETHZ/.github/assets/16691259/862975b5-ea09-4fb8-8138-fc2222dae4be" width=50% height=50%>](https://youtu.be/f67UEnPVfzI)<br>
+[Mixed Reality 2022 Highlights video](https://youtu.be/f67UEnPVfzI)<br>
 
 ### Projects:
 - 3D Room Arrangements using Virtual Reality
@@ -39,8 +40,9 @@ TA: Jonas Hein, [Taein Kwon](https://taeinkwon.com/), Julia Chen, Tianxu An<br>
 - Zero-shot pose estimation
 
 ## 2021 Mixed Reality
-Instructor: [Dr. Iro Armeni](https://ir0.github.io/), [Dr. Federica Bogo](https://fbogo.github.io/), [Prof. Marc Pollefeys](https://people.inf.ethz.ch/pomarc/)<br>
-TA: [Taein Kwon](https://taeinkwon.com/), [Denys Rozumnyi](https://people.inf.ethz.ch/denysr/), Jonas Hein, Isaak Hanimann<br>
+Instructors: [Dr. Iro Armeni](https://ir0.github.io/), [Dr. Federica Bogo](https://fbogo.github.io/), [Prof. Marc Pollefeys](https://people.inf.ethz.ch/pomarc/)<br>
+TAs: [Taein Kwon](https://taeinkwon.com/), [Denys Rozumnyi](https://people.inf.ethz.ch/denysr/), Jonas Hein, Isaak Hanimann<br>
+
 [![image](https://user-images.githubusercontent.com/19275767/191988824-8ee81d91-7c03-4116-a202-e446bfdbba29.png)](https://youtu.be/th3tq5B-QiY)
 [Mixed Reality 2021 Highlights video](https://youtu.be/th3tq5B-QiY)
 
@@ -66,7 +68,7 @@ TA: [Taein Kwon](https://taeinkwon.com/), [Denys Rozumnyi](https://people.inf.et
 - [SemSpray: VR Scene Annotation Tool](https://github.com/SherryJYC/VR-3D-Annotation-Tool)
 
 ## 2020 Mixed Reality
-Instructor: [Dr. Martin Oswald](https://scholar.google.de/citations?user=biytQP8AAAAJ&hl=en), [Dr. Federica Bogo](https://fbogo.github.io/)<br>
+Instructors: [Dr. Martin Oswald](https://scholar.google.de/citations?user=biytQP8AAAAJ&hl=en), [Dr. Federica Bogo](https://fbogo.github.io/)<br>
 TA: [Taein Kwon](https://taeinkwon.com/)<br>
 
 ### Projects:
