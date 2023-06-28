@@ -5,7 +5,7 @@ This organization is for the [Mixed Reality course](http://cvg.ethz.ch/teaching/
 Instructors: [Dr. Iro Armeni](https://ir0.github.io/), [Prof. Marc Pollefeys](https://people.inf.ethz.ch/pomarc/)<br>
 TAs: Jonas Hein, [Taein Kwon](https://taeinkwon.com/), Julia Chen, Tianxu An<br>
 
-[<img src="https://github.com/MixedRealityETHZ/.github/assets/16691259/862975b5-ea09-4fb8-8138-fc2222dae4be" width=50% height=50%>](https://youtu.be/f67UEnPVfzI)<br>
+[![image](https://github.com/MixedRealityETHZ/.github/assets/16691259/862975b5-ea09-4fb8-8138-fc2222dae4be)](https://youtu.be/f67UEnPVfzI)<br>
 [Mixed Reality 2022 Highlights video](https://youtu.be/f67UEnPVfzI)<br>
 
 ### Projects:
