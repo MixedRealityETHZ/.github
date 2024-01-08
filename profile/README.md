@@ -1,5 +1,27 @@
 # Mixed Reality @ ETHZ
-This organization is for the [Mixed Reality course](http://cvg.ethz.ch/teaching/mrlab/) provided by [CVG](http://cvg.ethz.ch/) @ETHZ.
+This organization is for the [Mixed Reality course](https://cvg.ethz.ch/lectures/Mixed-Reality/) provided by [CVG](http://cvg.ethz.ch/) @ETHZ.
+
+## 2023 Mixed Reality
+Instructors: [Dr. Zuria Bauer](https://zuriabauer.com/), [Prof. Christian Holz](https://inf.ethz.ch/people/person-detail.holz.html) [Prof. Marc Pollefeys](https://people.inf.ethz.ch/pomarc/)<br>
+TAs: Jonas Hein, Julia Chen, Jiaxi Jiang, Björn Braun, Yifan Yu<br>
+
+### Projects:
+- [A Mixed Reality Tool for Aviation](https://github.com/MixedRealityETHZ/A-Mixed-Reality-Tool-for-Aviation)
+- [ARise: Augmented Reality Instructions for Underwater Drone Setup Enhancement](https://github.com/MixedRealityETHZ/ARise-Augmented-Reality-Instructions-for-Underwater-Drone-Setup-Enhancement)
+- [Automatic Transcription and Translation](https://github.com/MixedRealityETHZ/Automatic-Transcription-and-Translation)
+- [Eyemantics: Eye Tracking Semantics](https://github.com/MixedRealityETHZ/Eyemantics-Eye-Tracking-Semantics)
+- [Immersive Mixed Reality Tool for Language Learning in School Students](https://github.com/MixedRealityETHZ/Immersive-Mixed-Reality-Tool-for-Language-Learning-in-School-Students)
+- [Let Objects vanish](https://github.com/MixedRealityETHZ/Let-Objects-vanish-)
+- [Line Tracking in MR](https://github.com/MixedRealityETHZ/Line-Tracking-in-MR)
+- [Mixed Reality Interaction with ANYmal Robots](https://github.com/MixedRealityETHZ/Mixed-Reality-Interaction-with-ANYmal-Robots)
+- [Paintball](https://github.com/MixedRealityETHZ/Paintball)
+- [Point Cloud Completion for Mixed Reality](https://github.com/MixedRealityETHZ/Point-Cloud-Completion-for-Mixed-Reality)
+- [Real-Time Volumetric Rendering in VR](https://github.com/MixedRealityETHZ/VR-Real-Time-Volumetric-Rendering)
+- [Rendering Trees](https://github.com/MixedRealityETHZ/Rendering-Trees)
+- [ROS Plug-in for Magic Leap](https://github.com/MixedRealityETHZ/ROS-Plug-in-for-Magic-Leap)
+- [SBB Train Maintenance in AR](https://github.com/MixedRealityETHZ/SBB-Train-Maintenance-in-AR)
+- [SpatialList](https://github.com/MixedRealityETHZ/SpatialList)
+- [Wish3D: Generate text-to-3D models and place them in the scene](https://github.com/MixedRealityETHZ/Wish3D-Generate-text-to-3D-models-and-place-them-in-the-scene)
 
 ## 2022 Mixed Reality
 Instructors: [Dr. Iro Armeni](https://ir0.github.io/), [Prof. Marc Pollefeys](https://people.inf.ethz.ch/pomarc/)<br>
