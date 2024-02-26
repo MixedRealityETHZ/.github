@@ -5,6 +5,9 @@ This organization is for the [Mixed Reality course](https://cvg.ethz.ch/lectures
 Instructors: [Dr. Zuria Bauer](https://zuriabauer.com/), [Prof. Christian Holz](https://inf.ethz.ch/people/person-detail.holz.html) [Prof. Marc Pollefeys](https://people.inf.ethz.ch/pomarc/)<br>
 TAs: Jonas Hein, Julia Chen, Jiaxi Jiang, Björn Braun, Yifan Yu<br>
 
+[![image](https://github.com/MixedRealityETHZ/.github/assets/16691259/697cc18b-1112-4b95-ba6c-c0d2f378bf75)](https://youtu.be/ZhrSlixb-HI)
+[Mixed Reality 2023 Highlights video](https://youtu.be/ZhrSlixb-HI)
+
 ### Projects:
 - [A Mixed Reality Tool for Aviation](https://github.com/MixedRealityETHZ/A-Mixed-Reality-Tool-for-Aviation)
 - ARise: Augmented Reality Instructions for Underwater Drone Setup Enhancement
