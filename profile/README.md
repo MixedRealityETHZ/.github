@@ -7,17 +7,17 @@ TAs: Jonas Hein, Julia Chen, Jiaxi Jiang, Björn Braun, Yifan Yu<br>
 
 ### Projects:
 - [A Mixed Reality Tool for Aviation](https://github.com/MixedRealityETHZ/A-Mixed-Reality-Tool-for-Aviation)
-- [ARise: Augmented Reality Instructions for Underwater Drone Setup Enhancement](https://github.com/MixedRealityETHZ/ARise-Augmented-Reality-Instructions-for-Underwater-Drone-Setup-Enhancement)
+- ARise: Augmented Reality Instructions for Underwater Drone Setup Enhancement
 - [Automatic Transcription and Translation](https://github.com/MixedRealityETHZ/Automatic-Transcription-and-Translation)
 - [Eyemantics: Eye Tracking Semantics](https://github.com/MixedRealityETHZ/Eyemantics-Eye-Tracking-Semantics)
-- [Immersive Mixed Reality Tool for Language Learning in School Students](https://github.com/MixedRealityETHZ/Immersive-Mixed-Reality-Tool-for-Language-Learning-in-School-Students)
+- Immersive Mixed Reality Tool for Language Learning in School Students
 - [Let Objects vanish](https://github.com/MixedRealityETHZ/Let-Objects-vanish-)
 - [Line Tracking in MR](https://github.com/MixedRealityETHZ/Line-Tracking-in-MR)
-- [Mixed Reality Interaction with ANYmal Robots](https://github.com/MixedRealityETHZ/Mixed-Reality-Interaction-with-ANYmal-Robots)
+- Mixed Reality Interaction with ANYmal Robots
 - [Paintball](https://github.com/MixedRealityETHZ/Paintball)
 - [Point Cloud Completion for Mixed Reality](https://github.com/MixedRealityETHZ/Point-Cloud-Completion-for-Mixed-Reality)
 - [Real-Time Volumetric Rendering in VR](https://github.com/MixedRealityETHZ/VR-Real-Time-Volumetric-Rendering)
-- [Rendering Trees](https://github.com/MixedRealityETHZ/Rendering-Trees)
+- Rendering Trees
 - [ROS Plug-in for Magic Leap](https://github.com/MixedRealityETHZ/ROS-Plug-in-for-Magic-Leap)
 - [SBB Train Maintenance in AR](https://github.com/MixedRealityETHZ/SBB-Train-Maintenance-in-AR)
 - [SpatialList](https://github.com/MixedRealityETHZ/SpatialList)
