@@ -1,6 +1,16 @@
 # Mixed Reality @ ETHZ
 This organization is for the [Mixed Reality course](https://cvg.ethz.ch/lectures/Mixed-Reality/) provided by [CVG](http://cvg.ethz.ch/) @ETHZ.
 
+## 2024 Mixed Reality
+Instructors: [Dr. Zuria Bauer](https://zuriabauer.com/), [Prof. Christian Holz](https://inf.ethz.ch/people/person-detail.holz.html) [Prof. Marc Pollefeys](https://people.inf.ethz.ch/pomarc/)<br>
+TAs: Jonas Hein, Julia Chen, Rupal Saxena<br>
+
+[![image](https://github.com/user-attachments/assets/12ef8df6-8a2e-4fa7-8988-742fa9028860)](https://youtu.be/41VCqZhgC_I)
+[Mixed Reality 2024 Highlights video](https://youtu.be/41VCqZhgC_I)
+
+### Projects:
+Coming Soon!
+
 ## 2023 Mixed Reality
 Instructors: [Dr. Zuria Bauer](https://zuriabauer.com/), [Prof. Christian Holz](https://inf.ethz.ch/people/person-detail.holz.html) [Prof. Marc Pollefeys](https://people.inf.ethz.ch/pomarc/)<br>
 TAs: Jonas Hein, Julia Chen, Jiaxi Jiang, Björn Braun, Yifan Yu<br>
