@@ -9,7 +9,24 @@ TAs: Jonas Hein, Julia Chen, Rupal Saxena<br>
 [Mixed Reality 2024 Highlights video](https://youtu.be/41VCqZhgC_I)
 
 ### Projects:
-Coming Soon!
+- [AR-ADs](https://github.com/MixedRealityETHZ/AD-Ads)
+- [LabelAR](https://github.com/MixedRealityETHZ/LabelAR)
+- [mARble-run](https://github.com/MixedRealityETHZ/mArble-run)
+- [PicassoAR](https://github.com/MixedRealityETHZ/PicassoAR)
+- [Baymax](https://github.com/MixedRealityETHZ/Baymax)
+- [BeSAFE v2](https://github.com/MixedRealityETHZ/BeSAFE-v2)
+- [VisionEnhancer](https://github.com/MixedRealityETHZ/VisionEnhancer)
+- [Simulating Illumination in Mixed Reality](https://github.com/MixedRealityETHZ/Simulating-Illumination)
+- [SBB HoloGuide](https://github.com/MixedRealityETHZ/SbbHoloGuide)
+- [Improving Object Pose Estimation with Line Features in MR](https://github.com/MixedRealityETHZ/LinesForObjectPoseEstimation)
+- [Interactive Visual Debugger for 3D Reconstructions](https://github.com/MixedRealityETHZ/Interactive-Visual-Debugger)
+- [Room Layout Estimation in AR](https://github.com/MixedRealityETHZ/Room-Layout-Estimation)
+- [Human Collaboration Dataset for Collaborative Multi-agents in the Real World](https://github.com/MixedRealityETHZ/Human-Collaboration-Dataset)
+- [OpenMaskXR](https://github.com/MixedRealityETHZ/OpenMaskXR)
+- [AR Remote Surgical Assistant](https://github.com/MixedRealityETHZ/Remote-Surgical-Assistant)
+- [AR Bone Template](https://github.com/MixedRealityETHZ/AR-Bone-Template)
+- [Where Am I](https://github.com/MixedRealityETHZ/WhereAmI)
+- [SpotOn](https://github.com/MixedRealityETHZ/SpotOn)
 
 ## 2023 Mixed Reality
 Instructors: [Dr. Zuria Bauer](https://zuriabauer.com/), [Prof. Christian Holz](https://inf.ethz.ch/people/person-detail.holz.html) [Prof. Marc Pollefeys](https://people.inf.ethz.ch/pomarc/)<br>
